@@ -4,7 +4,7 @@
 
 Bem vindo ao servidor de minecraft para subs.
 
-As regras do sevidor são as seguintes:
+As regras do servidor são as seguintes:
 
 1. Respeite os outros jogadores. Sejam Educados e vamos criar uma comunidade da hora.
 2. Nada de preconceito de qualquer forma ou tamanho. (Caso aconteça será ban imediato do Server).
